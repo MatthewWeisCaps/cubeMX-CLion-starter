@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="FreeRTOS_Exercise.elf" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" nameIsGenerated="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FreeRTOS_Exercise" TARGET_NAME="FreeRTOS_Exercise.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FreeRTOS_Exercise" RUN_TARGET_NAME="FreeRTOS_Exercise.elf">
+    <openocd gdb-port="3333" telnet-port="4444" board-config="board/stm32f429disc1.cfg" reset-type="INIT" download-type="ALWAYS" />
+    <method v="2">
+      <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
